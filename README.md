@@ -32,9 +32,10 @@ demonstrate the efficacy of marketing plans.
 
 ### Projects
 Credit Card Fraud Detection Predictive Model
- Purpose: Predict and Classify whether a creditcard transaction is fradulant or not.
- Model: Random Forrest Classifier
- Obtained an AUC scode of 0.85 when predicting the target for the test set
-Monthly Champagne Sales forecast
- Purpose: Forecast and visualize monthly sales performance of a Champagne store
- Model: autoregressive integrated moving average (ARIMA)
+ - Purpose: Predict and Classify whether a creditcard transaction is fradulant or not.
+ - Model: Random Forrest Classifier
+ - Obtained an AUC scode of 0.85 when predicting the target for the test set
+ 
+ Monthly Champagne Sales forecast
+ - Purpose: Forecast and visualize monthly sales performance of a Champagne store
+ - Model: autoregressive integrated moving average (ARIMA)
