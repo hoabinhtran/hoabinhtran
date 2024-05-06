@@ -44,3 +44,7 @@ Credit Card Fraud Detection Predictive Model
  - Purpose: Segmenting customers' pool using a behavior-based approach for an Automobile bike Company.
  - Based on 3 factors: (Recency, Frequency, Monetary)
  - It groups the customers on the basis of their previous purchase transactions
+
+ Nyc_schools test score
+ - Purpose: analyze the performance of various schools in New York city by analyzing students' SAT score using Postgresql
+ - Based on these factors: average math, reading, writing score and percentage of students completing the SAT.
